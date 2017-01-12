@@ -1,0 +1,4 @@
+﻿  Proxy.cpp
+c:\users\jamie\documents\games engineering\proxy\proxy\proxy.cpp(53): warning C4715: 'GraphicProxy::getInstance': not all control paths return a value
+  Proxy.vcxproj -> C:\Users\Jamie\Documents\Games Engineering\Proxy\Debug\Proxy.exe
+  Proxy.vcxproj -> C:\Users\Jamie\Documents\Games Engineering\Proxy\Debug\Proxy.pdb (Full PDB)

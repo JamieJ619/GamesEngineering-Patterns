@@ -1,0 +1,4 @@
+﻿  AbstractFactory.cpp
+c:\users\jamie\documents\games engineering\abstractfactory\abstractfactory\abstractfactory.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  AbstractFactory.vcxproj -> C:\Users\Jamie\Documents\Games Engineering\AbstractFactory\Debug\AbstractFactory.exe
+  AbstractFactory.vcxproj -> C:\Users\Jamie\Documents\Games Engineering\AbstractFactory\Debug\AbstractFactory.pdb (Full PDB)
